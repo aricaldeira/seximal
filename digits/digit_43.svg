@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="6.5890002mm"
+   height="5.1209998mm"
+   viewBox="0 0 6.5890002 5.1209998"
+   version="1.1"
+   id="svg29566"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="niftimal_digit_R.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29568"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.4980943"
+     inkscape:cx="174.80947"
+     inkscape:cy="37.448962"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs29563" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g50721"
+       transform="translate(-51.351551,-16.584312)">
+      <text
+         xml:space="preserve"
+         style="font-size:4.23333px;font-family:'Andika Tauga';-inkscape-font-specification:'Andika Tauga, Normal';fill:#000000;stroke-width:0.264583"
+         x="53.06992"
+         y="20.131832"
+         id="text21426"><tspan
+           sodipodi:role="line"
+           id="tspan21424"
+           style="fill:#000000;stroke-width:0.264583"
+           x="53.06992"
+           y="20.131832">φ</tspan></text>
+      <path
+         d="m 54.811413,17.423986 q 0,-0.115755 0.07855,-0.19637 0.07648,-0.08268 0.190169,-0.08268 0.115755,0 0.192236,0.08268 0.07648,0.08061 0.07648,0.19637 0,0.113688 -0.07648,0.196371 -0.07648,0.08268 -0.192236,0.08268 -0.113688,0 -0.190169,-0.08268 -0.07855,-0.08268 -0.07855,-0.196371 z m -0.868164,0 q 0,-0.115755 0.07855,-0.19637 0.07648,-0.08268 0.190169,-0.08268 0.115755,0 0.192236,0.08268 0.07648,0.08061 0.07648,0.19637 0,0.113688 -0.07648,0.196371 -0.07648,0.08268 -0.192236,0.08268 -0.113688,0 -0.190169,-0.08268 -0.07855,-0.08268 -0.07855,-0.196371 z"
+         id="path21430"
+         style="font-size:4.23333px;font-family:Andika;-inkscape-font-specification:'Andika, Normal';fill:#000000;stroke-width:0.264583" />
+    </g>
+  </g>
+</svg>
