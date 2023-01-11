@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2048"
+   height="2048"
+   viewBox="0 0 541.86666 541.86667"
+   version="1.1"
+   id="svg29566"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="digit_03_italic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview29568"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.15459539"
+     inkscape:cx="2260.7401"
+     inkscape:cy="695.36355"
+     inkscape:window-width="1920"
+     inkscape:window-height="1006"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs29563" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       aria-label="↊"
+       id="text1017"
+       style="font-style:italic;font-size:553.039px;font-family:Andika;-inkscape-font-specification:'Andika, Italic';fill:#ff0000;stroke-width:0.406646;stop-color:#000000"
+       transform="translate(1441.1816,-630.36315)" />
+    <g
+       aria-label="φ"
+       id="text1440"
+       style="font-style:italic;font-size:543.697px;font-family:Andika;-inkscape-font-specification:'Andika, Italic';stroke-width:0.260114;stop-color:#000000">
+      <path
+         d="m 179.06296,41.277683 -2.92025,43.538238 q -39.29061,8.229789 -63.18354,33.981059 -23.892937,25.4858 -23.892937,67.96213 0,19.91078 9.822652,39.29061 10.088125,19.37982 33.715585,32.12272 23.89294,12.7429 65.30736,12.7429 75.92644,0 112.82775,-31.06082 36.90131,-31.06081 36.90131,-80.70502 0,-19.91078 -8.76074,-36.63584 -8.49527,-16.99053 -25.4858,-27.344134 Q 296.6693,84.815921 271.97993,84.815921 H 265.343 q -13.80481,54.422799 -23.0965,91.324109 -9.02622,36.90131 -15.13219,61.59068 -6.10598,24.68936 -10.61909,42.74181 -4.51311,18.05244 -8.76074,34.51201 -3.98216,16.72506 -9.2917,37.43227 -5.30954,20.97269 -7.96431,41.6799 -2.65477,20.97269 -2.65477,39.2906 h -51.76803 q 0,-16.45958 3.98216,-38.22869 4.24763,-21.76912 9.2917,-42.74181 L 227.37978,40.481252 h 33.71559 q 48.31682,0 79.11216,14.070284 30.79534,13.804807 45.39658,37.432266 14.86672,23.361978 14.86672,52.298978 0,50.17517 -23.09651,88.13839 -23.0965,37.69774 -69.55499,58.9359 -46.19301,21.23817 -116.54443,21.23817 -52.0335,0 -85.74909,-14.86672 Q 72.075701,282.59633 55.881601,256.84506 39.6875,231.09378 39.6875,198.97106 q 0,-41.6799 17.256009,-75.13001 17.521486,-33.450111 48.847781,-54.953753 31.32629,-21.769119 73.27167,-27.609614 z"
+         id="path1480" />
+    </g>
+  </g>
+</svg>
