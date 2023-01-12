@@ -25,9 +25,9 @@
      inkscape:document-units="mm"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="1.035224"
-     inkscape:cx="700.81454"
-     inkscape:cy="739.45352"
+     inkscape:zoom="0.73201391"
+     inkscape:cx="814.19218"
+     inkscape:cy="693.29284"
      inkscape:window-width="1920"
      inkscape:window-height="1006"
      inkscape:window-x="0"
@@ -2185,26 +2185,26 @@
     </g>
     <g
        id="g1217"
-       transform="rotate(-70,130.62205,84.077249)">
+       transform="rotate(-150,97.09845,99.961042)">
       <path
          style="stroke-width:27.515;stop-color:#000000"
          d="m 74.480208,29.752706 v 44.247428 c 0,1.107999 0.677725,1.999878 1.519804,1.999878 0.842079,0 1.519804,-0.891879 1.519804,-1.999878 V 29.752706 Z"
          id="path1213" />
       <path
-         style="fill:#d40000;stroke-width:27.515;stop-color:#000000"
+         style="fill:#0000ff;stroke-width:27.515;stop-color:#000000"
          d="m 76.000012,4.5 c -0.842079,0 -1.519804,0.891879 -1.519804,1.9998779 V 10.19681 h 3.039608 V 6.4998779 C 77.519816,5.391879 76.842091,4.5 76.000012,4.5 Z"
          id="path1209" />
     </g>
     <g
        id="g1542"
-       transform="rotate(-150,97.486503,99.838725)">
+       transform="rotate(-70,130.05589,84.278209)">
       <path
          style="stroke-width:27.515;stop-color:#000000"
          d="m 74.480208,41.726381 v 32.273753 c 0,1.107999 0.677725,1.999878 1.519804,1.999878 0.842079,0 1.519804,-0.891879 1.519804,-1.999878 V 41.726381 Z"
          id="path1538"
          sodipodi:nodetypes="cssscc" />
       <path
-         style="fill:#0000ff;stroke-width:27.515;stop-color:#000000"
+         style="fill:#d40000;stroke-width:27.515;stop-color:#000000"
          d="m 76.000012,4.5 c -0.842079,0 -1.519804,0.891879 -1.519804,1.9998779 V 10.19681 h 3.039608 V 6.4998779 C 77.519816,5.391879 76.842091,4.5 76.000012,4.5 Z"
          id="path1540" />
     </g>
